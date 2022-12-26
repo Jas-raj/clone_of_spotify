@@ -1,0 +1,15 @@
+{
+  "core": {
+    "destroyEmptyPanes": false,
+    "disabledPackages": [
+      "atom-color-highlight",
+      "symbols-view",
+      "atom-fecs"
+    ],
+    "openEmptyEditorOnStart": false,
+    "projectHome": "/Users/vanton1/works"
+  },
+  "tool-bar": {
+    "position": "Left"
+  }
+}
